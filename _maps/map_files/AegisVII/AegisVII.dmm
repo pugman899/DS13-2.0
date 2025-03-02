@@ -10210,6 +10210,7 @@
 	pixel_y = 10
 	},
 /obj/item/wirecutters,
+/obj/machinery/recharger,
 /turf/open/floor/deadspace/mono,
 /area/station/security/range)
 "fqq" = (
@@ -29023,6 +29024,11 @@
 	},
 /turf/open/floor/deadspace/random/slides,
 /area/station/hallway/secondary/exit/departure_lounge)
+"oOG" = (
+/obj/structure/table,
+/obj/machinery/recharger,
+/turf/open/floor/carpet/red,
+/area/station/security/office)
 "oON" = (
 /obj/structure/lattice/catwalk,
 /turf/open/misc/asteroid,
@@ -31549,6 +31555,7 @@
 /obj/item/clothing/glasses/sunglasses,
 /obj/item/radio/intercom/directional/north,
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2,
+/obj/machinery/recharger,
 /turf/open/floor/deadspace/mono,
 /area/station/security/range)
 "qdh" = (
@@ -37232,6 +37239,11 @@
 /obj/machinery/light/floor/has_bulb,
 /turf/open/floor/deadspace/random/maint_center,
 /area/station/hallway/primary/central)
+"tcV" = (
+/obj/structure/table/reinforced,
+/obj/machinery/recharger,
+/turf/open/floor/deadspace/mono,
+/area/station/security/range)
 "tde" = (
 /obj/structure/extinguisher_cabinet/directional/north,
 /turf/open/floor/deadspace/random/rectangles,
@@ -44414,7 +44426,7 @@
 	pixel_y = 4
 	},
 /obj/machinery/light/directional/north,
-/obj/machinery/cell_charger,
+/obj/machinery/recharger,
 /turf/open/floor/deadspace/random/slides{
 	dir = 8
 	},
@@ -82963,7 +82975,7 @@ xTs
 vxQ
 vxQ
 khe
-vxQ
+tcV
 xTs
 xTs
 jKC
@@ -84824,7 +84836,7 @@ bMV
 sEL
 fCE
 pJr
-erY
+oOG
 jpQ
 erY
 pJr
