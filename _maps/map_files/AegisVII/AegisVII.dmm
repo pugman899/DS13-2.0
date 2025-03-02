@@ -16942,6 +16942,7 @@
 "iMH" = (
 /obj/structure/table/reinforced,
 /obj/item/storage/box/firingpins,
+/obj/machinery/recharger,
 /turf/open/floor/deadspace/random/slides_end,
 /area/station/ai_monitored/security/armory/upper)
 "iMP" = (
@@ -26813,6 +26814,11 @@
 /obj/structure/chair,
 /turf/open/floor/deadspace/medbay/h_rightside,
 /area/station/medical/medbay/lobby)
+"nPz" = (
+/obj/structure/table/reinforced,
+/obj/machinery/recharger,
+/turf/open/floor/deadspace/mono,
+/area/station/security/range)
 "nPG" = (
 /obj/structure/rack,
 /obj/effect/turf_decal/box,
@@ -31549,6 +31555,7 @@
 /obj/item/clothing/glasses/sunglasses,
 /obj/item/radio/intercom/directional/north,
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2,
+/obj/machinery/recharger,
 /turf/open/floor/deadspace/mono,
 /area/station/security/range)
 "qdh" = (
@@ -33660,6 +33667,11 @@
 /obj/effect/spawner/random/maintenance/two,
 /turf/open/floor/deadspace/random/golf_brown,
 /area/station/cargo)
+"rkU" = (
+/obj/structure/table,
+/obj/machinery/recharger,
+/turf/open/floor/carpet/red,
+/area/station/security/office)
 "rlk" = (
 /obj/machinery/atmospherics/pipe/smart/simple/purple/visible{
 	dir = 6
@@ -44414,7 +44426,7 @@
 	pixel_y = 4
 	},
 /obj/machinery/light/directional/north,
-/obj/machinery/cell_charger,
+/obj/machinery/recharger,
 /turf/open/floor/deadspace/random/slides{
 	dir = 8
 	},
@@ -82963,7 +82975,7 @@ xTs
 vxQ
 vxQ
 khe
-vxQ
+nPz
 xTs
 xTs
 jKC
@@ -84826,7 +84838,7 @@ fCE
 pJr
 erY
 jpQ
-erY
+rkU
 pJr
 pJr
 fPH
